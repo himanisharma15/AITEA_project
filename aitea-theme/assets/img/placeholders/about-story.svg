@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">People in conversation in Vienna</title>
+  <desc id="desc">Placeholder illustration for the About Us story image.</desc>
+  <rect width="900" height="675" fill="#d9ddda"/>
+  <rect y="390" width="900" height="285" fill="#b7c1bd"/>
+  <rect x="90" y="96" width="720" height="270" rx="18" fill="#f4f4f3"/>
+  <circle cx="235" cy="324" r="82" fill="#5f6b6b"/>
+  <circle cx="450" cy="280" r="98" fill="#2b3a4a"/>
+  <circle cx="670" cy="326" r="80" fill="#e5334b"/>
+  <path d="M128 520c30-95 184-102 214 0M334 540c34-127 198-128 234 0M580 520c28-92 174-92 202 0" fill="none" stroke="#f4f4f3" stroke-width="34" stroke-linecap="round"/>
+</svg>
